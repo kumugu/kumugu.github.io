@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gemspec
-gem 'jekyll-gist', '~> 1.5'
+gemspecs
+gem "minimal-mistakes-jekyll", "~> 4.26"

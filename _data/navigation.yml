@@ -1,5 +1,18 @@
 # main links
 main:
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+
+docs:
+   - title: "------"
+     children: 
+   - title: "HTML, CSS, JS"
+     url: /categories/
+   - title: "Java"
+     url: /categories/
+
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # # - title: "About"
