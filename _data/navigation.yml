@@ -10,8 +10,11 @@ docs:
      children: 
    - title: "HTML, CSS, JS"
      url: /categories/
+   - title: "jQuery"
+     url: /categories/
    - title: "Java"
      url: /categories/
+
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
