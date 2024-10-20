@@ -10,7 +10,7 @@ docs:
      children: 
    - title: "HTML, CSS, JS"
      url: /categories/
-   - title: "jQuery"
+   - title: "JQuery"
      url: /categories/
    - title: "Java"
      url: /categories/
