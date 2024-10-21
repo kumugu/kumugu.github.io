@@ -8,7 +8,7 @@ main:
     url: /tags/
 
 docs:
-   - title: "------"
+   - title: "=study="
      children: 
    - title: "HTML, CSS, JS"
      url: /categories/
@@ -16,7 +16,10 @@ docs:
      url: /categories/
    - title: "Java"
      url: /categories/
-
+   - title: "=project="
+     children: 
+   - title: "GAME"
+     url: /categories/
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
