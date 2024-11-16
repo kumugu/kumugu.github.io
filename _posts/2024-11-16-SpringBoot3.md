@@ -4,7 +4,7 @@ title: "Spring Boot Project Setting 3"
 toc: true
 toc_sticky: true
 categories: Spring Boot
-tag: [Spring Boot, framework, Java]
+tag: [Spring Boot, framework, Java, FE]
 author_profile: false
 sidebar:
     nav: "docs"

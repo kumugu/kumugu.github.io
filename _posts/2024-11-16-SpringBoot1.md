@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Spring Boot setting"
+title: "Spring Boot Project Setting 1"
 toc: true
 toc_sticky: true
 categories: Spring Boot
@@ -10,7 +10,7 @@ sidebar:
     nav: "docs"
 ---
 
-# Spring Boot 프로젝트 설정 가이드
+# Spring Boot 프로젝트 설정 가이드 1
 
 ## 1. 개발 환경 설정
 1) 프로젝트 환경
