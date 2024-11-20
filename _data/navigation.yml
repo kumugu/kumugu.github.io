@@ -18,6 +18,8 @@ docs:
      url: /categories/
    - title: "SQL"
      url: /categories/
+   - title: "Spring Boot"
+     url: /categories/
    - title: "=project="
      children: 
    - title: "GAME"
